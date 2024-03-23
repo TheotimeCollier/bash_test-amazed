@@ -1,0 +1,14 @@
+#number_of_robots
+4
+#rooms
+##start
+0 0 0
+##end
+3 10 0
+1 15 0
+2 8 0
+#tunnels
+0-1
+1-2
+2-3
+3-0

@@ -1,0 +1,9 @@
+#number_of_robots
+4
+#rooms
+0 84 63
+1 24 45
+2 97 30
+3 82 77
+##start
+4 87 16
